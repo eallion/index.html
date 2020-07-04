@@ -1,6 +1,6 @@
 ### index html simple
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
