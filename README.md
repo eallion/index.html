@@ -1,4 +1,4 @@
-### index html simple
+### index html sample
 
 ```html
 <!DOCTYPE html>
